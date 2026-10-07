@@ -1,0 +1,6 @@
+pandas
+openpyxl
+SQLAlchemy
+psycopg[binary]
+python-dotenv
+pytest
